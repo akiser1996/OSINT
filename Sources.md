@@ -15,7 +15,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="https://analyze.intezer.com/" target="_blank">Intezer Analyze</a>
         </td>
         <td>
-            This site is used for opensource file scanning. Best used to dive deep into raw data file analysis to discover OSINT that can be used to block IOCs.
+            This site is used for opensource file scanning. Best used to dive deep into raw data file analysis to easily discover OSINT that can be used to block IOCs.
         </td>
     </tr>
 </table>
