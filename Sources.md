@@ -5,9 +5,7 @@ A concise definition of Threat Intelligence: *evidence-based knowledge, includin
 
 ## File Analysis
 
-Most of the resources listed below provide lists and/or APIs to obtain (hopefully) up-to-date information with regards to threats.
-Some consider these sources as threat intelligence, opinions differ however.
-A certain amount of (domain- or business-specific) analysis is necessary to create true threat intelligence.
+The follwing sites can be used for file analysis. Intelligence can include file reputation, known malware (used for analysis) and common processes that malware can utilize.
 
 <table>
     <tr>
@@ -20,7 +18,25 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
 </table>
     
+## URL & Domain Analysis
+
+The follwing sites can be used for analyzing malicious URLs and domains. Intelligence can include phishing sites, DNS dumps, MX Records and common domain intelligence.
+
+<table>
+    <tr>
+        <td>
+            <a href="https://web.archive.org" target="_blank">Web Archive</a>
+        </td>
+        <td>
+            This site is used for opensource file scanning. Best used to dive deep into raw data file analysis to easily discover OSINT that can be used to block malicious IOCs.
+        </td>
+    </tr>
+</table>
+    
 ## IP Anlaysis
+
+The following sites can be used to gather intelligence on IP addresses. Intelligence can include reports, location, owner and IP grabbing.
+
 <table>
     <tr>
         <td>
