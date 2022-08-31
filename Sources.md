@@ -12,10 +12,10 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
 <table>
     <tr>
         <td>
-            <a href="https://www.abuseipdb.com/" target="_blank">AbuseIPDB</a>
+            <a href="https://analyze.intezer.com/" target="_blank">Intezer Analyze</a>
         </td>
         <td>
-            AbuseIPDB is a project dedicated to helping combat the spread of hackers, spammers, and abusive activity on the internet. It's mission is to help make Web safer by providing a central blacklist for webmasters, system administrators, and other interested parties to report and find IP addresses that have been associated with malicious activity online..
+            This site is used for opensource file scanning. Best used to dive deep into raw data file analysis to discover OSINT that can be used to block IOCs.
         </td>
     </tr>
 </table>
@@ -27,7 +27,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="https://www.abuseipdb.com/" target="_blank">AbuseIPDB</a>
         </td>
         <td>
-            AbuseIPDB is a project dedicated to helping combat the spread of hackers, spammers, and abusive activity on the internet. It's mission is to help make Web safer by providing a central blacklist for webmasters, system administrators, and other interested parties to report and find IP addresses that have been associated with malicious activity online..
+            Site used most commonly for checking if an IP address has been reported for abuse in the past. This site also lists the reason(s) an IP address has been reported.
         </td>
     </tr>
     
