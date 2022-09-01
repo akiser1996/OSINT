@@ -39,7 +39,7 @@ The follwing sites can be used for analyzing malicious URLs and domains. Intelli
 </table>
 </br>
     
-## IP Anlaysis
+## IP Analysis
 
 The following sites can be used to gather intelligence on IP addresses. Intelligence can include reports, location, owner and IP grabbing.
 
