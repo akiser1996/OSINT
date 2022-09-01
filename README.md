@@ -4,8 +4,8 @@ A curated list of Opensource Threat Intelligence resources for cybersecurity.
 A concise definition of Threat Intelligence: *evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject’s response to that menace or hazard*.
 
 - [File Analysis](#File-Analysis)
-- [URL & Domain Analysis](URL-&-Domain-Analysis)
-- [IP Analysis](IP-Analysis)
+- [URL & Domain Analysis](#URL-&-Domain-Analysis)
+- [IP Analysis](#IP-Analysis)
 
 ## File Analysis
 
