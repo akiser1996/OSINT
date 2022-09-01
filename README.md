@@ -1,8 +1,9 @@
-# OSINT
 # Akiser1996 Cybersecurity OSINT
 A curated list of Opensource Threat Intelligence resources for cybersecurity.
 
 A concise definition of Threat Intelligence: *evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject’s response to that menace or hazard*.
+
+- [File Analysis](#File Analysis)
 
 ## File Analysis
 
