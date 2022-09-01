@@ -20,6 +20,22 @@ The follwing sites can be used for file analysis. Intelligence can include file 
             This site is used for opensource file scanning. Best used to dive deep into raw data file analysis to easily discover OSINT that can be used to block malicious IOCs.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.virustotal.com/gui/home/search" target="_blank">VirusTotal</a>
+        </td>
+        <td>
+            Opensource file and domain scanning tool. Used to easily analyze files and domains based on reputation from security vendors and the community.
+        </td>
+    </tr>
+        <tr>
+        <td>
+            <a href="" target="_blank">__</a>
+        </td>
+        <td>
+            
+        </td>
+    </tr>
 </table>
 </br>
     
