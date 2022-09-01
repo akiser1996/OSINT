@@ -61,3 +61,7 @@ The following sites can be used to gather intelligence on IP addresses. Intellig
     </tr>
     
 </table>
+
+## License
+
+Licensed under [Apache License 2.0](LICENSE).
