@@ -7,6 +7,22 @@ A concise definition of Threat Intelligence: *evidence-based knowledge, includin
 - [URL & Domain Analysis](#URL--Domain-Analysis)
 - [IP Analysis](#IP-Analysis)
 
+## OSINT Framework
+
+The following site can be used to gather intelligence of all types.
+
+<table>
+    <tr>
+        <td>
+            <a href="https://osintframework.com" target="_blank">OSINT Framework</a>
+        </td>
+        <td>
+            Comprehensive list of OSINT sites sorted by multiple categories and sub-categories. This site is recommended for discovering new OSINT sources based off the type of information your are searching for.
+        </td>
+    </tr>
+    
+</table>
+
 ## File Analysis
 
 The follwing sites can be used for file analysis. Intelligence can include file reputation, known malware (used for analysis) and common processes that malware can utilize.
@@ -27,6 +43,31 @@ The follwing sites can be used for file analysis. Intelligence can include file 
         <td>
             Opensource file and domain scanning tool. Used to easily analyze files and domains based on reputation from security vendors and the community.
         </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.hybrid-analysis.com/" target="_blank">Hybrid Analysis</a>
+        </td>
+        <td>
+            Opensource file scanning tool. Hybrid Analysis offers in-depth analysis, execution screenshots and raw data analysis.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://tria.ge/" target="_blank">Triage</a>
+        </td>
+        <td>
+            Tria.ge offers minimal file analysis based off the MITRE ATT&CK framework in combination with static and behavioral characteristics.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://bazaar.abuse.ch/browse/" target="_blank">MalwareBazaar</a>
+        </td>
+        <td>
+            Site used for downloading Malware samples.
+        </td>
+    </tr>
 </table>
 </br>
     
