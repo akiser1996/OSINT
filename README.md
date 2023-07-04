@@ -105,3 +105,20 @@ The following sites can be used to gather intelligence on IP addresses. Intellig
     
 </table>
 </br>
+
+## Training
+
+The following sites offer invaluable training in Information Security - both Red Team and Blue Team.
+
+<table>
+    <tr>
+        <td>
+            <a href="https://www.hackthebox.com/">HackTheBox</a>
+        </td>
+        <td>
+            HackTheBox offers hands on training for Red Team and Blue Team TTPs. Progressively work your way through modules offering in-depth training on various topics, to sharpen your skills.
+        </td>
+    </tr>
+    
+</table>
+</br>
